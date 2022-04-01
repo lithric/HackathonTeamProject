@@ -8,3 +8,13 @@ C:\Users\oliver_elion\source\repos\lithric\coding-assignments\MediaPlayerHackath
 C:\Users\oliver_elion\source\repos\lithric\coding-assignments\MediaPlayerHackathon\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.csproj.CoreCompileInputs.cache
 C:\Users\oliver_elion\source\repos\lithric\coding-assignments\MediaPlayerHackathon\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.exe
 C:\Users\oliver_elion\source\repos\lithric\coding-assignments\MediaPlayerHackathon\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.pdb
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\bin\Debug\MediaPlayerHackathon.exe.config
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\bin\Debug\MediaPlayerHackathon.exe
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\bin\Debug\MediaPlayerHackathon.pdb
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.csproj.AssemblyReference.cache
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.Form1.resources
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.Properties.Resources.resources
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.csproj.GenerateResource.cache
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.csproj.CoreCompileInputs.cache
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.exe
+C:\Users\beeman_lucas\Desktop\HackathonTeamProject\MediaPlayerHackathon\obj\Debug\MediaPlayerHackathon.pdb

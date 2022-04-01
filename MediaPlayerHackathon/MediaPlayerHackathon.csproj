@@ -85,6 +85,7 @@
     <Content Include="browser.html" />
     <Content Include="browser.js" />
     <Content Include="browser.py" />
+    <Content Include="EyeTracker.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
