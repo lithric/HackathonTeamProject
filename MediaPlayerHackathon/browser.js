@@ -1,0 +1,2 @@
+﻿document.body.onload = function() {
+}
